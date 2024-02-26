@@ -27,7 +27,7 @@ sp-io = { version = "23.0.0", default-features = false, git = "https://github.co
 sp-runtime = { version = "24.0.0", default-features = false, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v1.0.0" }
 sp-keystore = { version = "0.27.0", optional = true, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v1.0.0" }
 sp-std = { version = "8.0.0", default-features = false, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v1.0.0" }
-getrandom = {version = "0.2.10", default-features = false, features = ["custom"]}
+getrandom = {version = "0.2.12", default-features = false, features = ["custom"]}
 
 
 [features]
